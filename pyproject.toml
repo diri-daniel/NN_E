@@ -1,0 +1,19 @@
+[project]
+name = "nn-e"
+version = "0.1.0"
+description = "A modular neural network framework"
+requires-python = ">=3.11"
+dependencies = [
+    "os",
+    "numpy",
+    "pandas",
+    "ctypes",
+    "datetime",
+    "matplotlib"
+]
+
+[project.urls]
+Homepage = ""
+
+[tool.setuptools.package-data]
+Experiment = ["Helper/*.dll", "Helper/*.so"]
