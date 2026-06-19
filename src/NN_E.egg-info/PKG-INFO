@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: NN_E
+Version: 0.1.4
+Summary: A modular neural network framework
+Project-URL: Homepage, https://github.com/diri-daniel/NN_E.git
+Requires-Python: >=3.11
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: datetime
+Requires-Dist: matplotlib

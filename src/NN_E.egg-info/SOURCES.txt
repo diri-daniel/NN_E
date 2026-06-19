@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/NN_E/Layers.py
+src/NN_E/Network.py
+src/NN_E/Network_types.py
+src/NN_E/Preprocessor.py
+src/NN_E/__init__.py
+src/NN_E.egg-info/PKG-INFO
+src/NN_E.egg-info/SOURCES.txt
+src/NN_E.egg-info/dependency_links.txt
+src/NN_E.egg-info/requires.txt
+src/NN_E.egg-info/top_level.txt
