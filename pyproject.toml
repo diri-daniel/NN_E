@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = ""
+Homepage = "https://github.com/diri-daniel/NN_E.git"
 
 [tool.setuptools.package-data]
 Experiment = ["Helper/*.dll", "Helper/*.so"]
