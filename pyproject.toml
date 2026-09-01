@@ -3,6 +3,7 @@ name = "NN_E"
 version = "0.1.5"
 description = "A modular neural network framework"
 requires-python = ">=3.11"
+readme = "README.md"
 dependencies = [
     "numpy",
     "pandas",
